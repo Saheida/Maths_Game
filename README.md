@@ -123,4 +123,8 @@ else:
     print ("keep practicing! You can do better next time.")
 ```
 
-ADD IN MORE INFO ABOUT CUSTOMIZATION, LICENCE ETC
+**Enhancing the game**
+
+The multiplication game can be enhanced and difficulty levels increased by
+* Changing the number of questions by modifying the ```total_questions``` variable
+* Alter the difficulty level by changning the ranges in ```random_randit()``` to make the equations harder

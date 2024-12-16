@@ -68,7 +68,7 @@ else:
 •	Have fun! ![image](https://github.com/user-attachments/assets/d86cedc2-0c86-4397-bcfa-0b1dc60499c7)
 
 # Technical Guidance
-This is a simple maths game which generates random multiplication equations where the user is asked to solve x.  The program tracks the score of the user and provides feedback after each question. It starts with a score of zero and asks 5 questions and after all 5 have been anwered it will tell the user if they have scored above 50%.
+This is a simple maths game which generates random multiplication equations where the user is asked to solve x.  The program tracks the score of the user and provides feedback after each question. It starts with a score of zero and asks 5 questions and after all 5 have been answered it will tell the user if they have scored above 50%.
 
 **System requirements**
 * Python 3.x installed on the system

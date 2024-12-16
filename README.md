@@ -122,3 +122,5 @@ if score > total_questions / 2:
 else:
     print ("keep practicing! You can do better next time.")
 ```
+
+ADD IN MORE INFO ABOUT CUSTOMIZATION, LICENCE ETC

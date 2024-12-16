@@ -1,7 +1,7 @@
 # Multiplication Game-README
 This is a technical and user documentation for the Multiplication Game for a user who is new to Python. It will guide you through the process of installing and running the program as well as provide technical information on how the game works. 
 
-# User Guidance
+## <ins>User Guidance</ins>
 
 **Program Objective**
 
@@ -67,7 +67,7 @@ else:
  
 •	Have fun! ![image](https://github.com/user-attachments/assets/d86cedc2-0c86-4397-bcfa-0b1dc60499c7)
 
-# Technical Guidance
+## <ins>Technical Guidance</ins>
 This is a simple maths game which generates random multiplication equations where the user is asked to solve x.  The program tracks the score of the user and provides feedback after each question. It starts with a score of zero and asks 5 questions and after all 5 have been answered it will tell the user if they have scored above 50%.
 
 **System requirements**

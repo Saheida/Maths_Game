@@ -128,3 +128,8 @@ else:
 The multiplication game can be enhanced and difficulty levels increased by
 * Changing the number of questions by modifying the ```total_questions``` variable
 * Alter the difficulty level by changning the ranges in ```random_randit()``` to make the equations harder
+
+**Licence**
+
+This project is licenced under the MIT Licence.
+

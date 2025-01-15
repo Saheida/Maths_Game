@@ -1,4 +1,4 @@
-# Multiplication Game-README
+# Multiplication Game
 This is a technical and user documentation for the Multiplication Game for a user who is new to Python. It will guide you through the process of installing and running the program as well as provide technical information on how the game works. 
 
 ## <ins>User Guidance</ins>

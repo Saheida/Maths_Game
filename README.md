@@ -136,6 +136,6 @@ This project is licenced under the MIT Licence.
 **Copy the Respository**
 
 ```bash
-git clone https://github.com/Saheida/Maths_Game-README
+git clone https://github.com/Saheida/Maths_Game
 ```
 
